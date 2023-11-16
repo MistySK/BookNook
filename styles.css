@@ -6,8 +6,12 @@ body{
     margin: 2rem;
 }
 h1{
+    font-weight: bold;
     color:purple;
 }
 img{
     border-radius: 10px;
+}
+h2{
+    color:purple
 }
