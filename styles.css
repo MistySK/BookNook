@@ -15,3 +15,15 @@ img{
 h2{
     color:purple
 }
+.nav-div {
+    width: 175px;
+}
+a {
+    display:block;
+    background-color: #d3e58c;
+    color: #000;
+    text-decoration:none;
+    padding: 5px;px;
+    margin-bottom:5px; 
+    border-radius: 10px; 
+}
